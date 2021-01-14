@@ -1,0 +1,7 @@
+MODULE_UNIQUEID: rk_CigarsShop
+MODULE_NAME: Cigars Shop Module
+MODULE_AUTHOR: Raddeck
+MODULE_LINK: https://github.com/RaiderKnight/
+MODULE_DESCRIPTION: Add options to buy cigars !
+MODULE_REQUIREMENTS:
+MODULE_VERSION: 0.1
