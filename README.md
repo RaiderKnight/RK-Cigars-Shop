@@ -4,11 +4,13 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_CigarsShop  : 
-Add options to buy/smoke Cigars at different places around the city.
+Add options to buy/smoke Cigars at different places around the city.  
+5 brands of the best cigars.  
+Contain 2 scenes.  
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_CigarsShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_CigarsShop\rk_CigarsShop
+c:\..\LifePlay\Content\Modules\RK-Cigars-Shop\rk_CigarsShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
